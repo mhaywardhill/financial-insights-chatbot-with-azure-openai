@@ -1,0 +1,14 @@
+Prompt 1: Financial Performance
+"Summarise Starbucks' key financial metrics for the for the quarterly period ended June 29, 2025, including revenue, net income, and operating margin."
+
+Prompt 2: Business Operations
+"What operational challenges or strategic initiatives did Starbucks report in the latest 10-Q filing?"
+
+Prompt 3: Risk Factors
+"What are the primary risks identified by Starbucks that could impact its future performance?"
+
+Prompt 4: Management Discussion
+"What insights did Starbucks' management provide in the MD&A section regarding market trends and company outlook?"
+
+Prompt 5: Quarter Comparison
+"How does Starbucks' financial performance for the quarterly period ended June 29, 2025 compared to previous year?"
