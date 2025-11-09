@@ -45,3 +45,19 @@ This project uses **10-Q financial documents** from Starbucks Corporation as the
    Use Azure Blob Storage to store the documents 
 
 ---
+
+## Setting Up the Azure Environment
+
+You'll need to configure the following Azure services:
+
+1. **Resource Group**
+   A container that holds related resources for your Azure solution.
+	
+2. **Azure Blob Storage**
+   To store the 10-Q documents.
+	
+3. **Azure AI Search**
+   To index and search the documents.
+
+4. **Azure OpenAI Service**
+   To deploy language models like GPT-4 and ADA for embeddings.
