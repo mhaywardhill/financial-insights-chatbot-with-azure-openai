@@ -28,7 +28,7 @@ This project uses **10-Q financial documents** from Starbucks Corporation as the
 ### Steps to Download 10-Q Documents
 
 1. **Access the SEC EDGAR Database**  
-   Visit the [SEC Search Filings page](https://www.sec.gov/search-filings**  
+   Visit the [SEC Search Filings page](https://www.sec.gov/search-filings)
    Enter `Starbucks` and click on CIK 0000829224
 
 3. **Filter by Filing Type**  
@@ -36,10 +36,10 @@ This project uses **10-Q financial documents** from Starbucks Corporation as the
 
 4. **Select the Main Filing**  
    Click on the 1-2 most recent 10-Q filing.  
-   In the **"Documents"** tab, choose the main 10-Q document (usually labeled just `10-Q`, not exhibits).
+   In the **"Documents"** tab, choose the main 10-Q document.
 
 5. **Choose HTM Format**  
-   Open the document in **HTM** format and save as `.pdf` file. 
+   Open the document in **HTM** format and from the Menu in the top left-hand corner and **Open as HTML**. Then save to `.pdf` format using Print to PDF.
 
 6. **Upload to Azure Blob Storage**  
    Use Azure Blob Storage to store the documents 
