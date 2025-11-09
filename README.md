@@ -28,7 +28,7 @@ This project uses **10-Q financial documents** from Starbucks Corporation as the
 ### Steps to Download 10-Q Documents
 
 1. **Access the SEC EDGAR Database**  
-   Visit the [SEC Search Filings page](https://www.sec.gov/search-filings) 
+   Visit the [SEC Search Filings page](https://www.sec.gov/search-filings)  
    Enter `Starbucks` and click on CIK 0000829224
 
 3. **Filter by Filing Type**  
@@ -50,14 +50,14 @@ This project uses **10-Q financial documents** from Starbucks Corporation as the
 
 You'll need to configure the following Azure services:
 
-1. **Resource Group** 
+1. **Resource Group**  
    A container that holds related resources for your Azure solution.
 	
-2. **Azure Blob Storage** 
+2. **Azure Blob Storage**  
    To store the 10-Q documents.
 	
-3. **Azure AI Search** 
+3. **Azure AI Search**  
    To index and search the documents.
 
-4. **Azure OpenAI Service** 
-   To deploy language models like GPT-4 and ADA for embeddings.
+4. **Azure OpenAI Service**  
+   To deploy language models GPT-4 and ADA (text-embedding-ada-002) for embeddings.
